@@ -1,4 +1,75 @@
-# Trade_It
+#"CompluAlquila"
+
+Encargado: Ramiro Alejandro
+1. Resumen Ejecutivo  
+  - Breve descripción del proyecto.  
+  - Objetivos principales.  
+  - Alcance general.  
+  - Beneficios esperados.  
+  - Cronograma.  
+
+Encargado: Ramiro Alejandro
+2. Antecedentes y Justificación  
+  - Contexto del problema o necesidad.  
+  - Situación actual (qué se intenta mejorar o resolver).  
+  - Impacto esperado (económico, técnico o social).  
+
+Encargado: Diego
+3. Objetivos del Proyecto  
+  - Objetivo general: (una frase que resuma el propósito del proyecto).  
+  - Objetivos específicos: (metas concretas y medibles).  
+
+Encargado: Diego
+4. Alcance del Proyecto  
+  - Funcionalidades que se incluirán.  
+  - Límites del sistema (qué no se desarrollará).  
+  - Entregables principales.  
+  - Criterios de aceptación.  
+
+Encargados: Axel y Senbo
+5. Requerimientos del Sistema  
+  - Requerimientos funcionales: (acciones que el sistema debe realizar).  
+  - Requerimientos no funcionales: (rendimiento, seguridad, usabilidad, etc.).  
+  - Requerimientos de usuario: (expectativas y necesidades del usuario final).  
+
+Encargados: Sergio y Hugo
+6. Arquitectura y Diseño del Sistema  
+  - Diagrama general de arquitectura.  
+  - Definición de subsistemas (por cada subsistema):  
+    - Diagramas de Casos de Uso  
+    - Casos de uso especificados  
+    - Dos diagramas de actividad de los casos más importantes  
+    - Prototipado de la herramienta por subsistema  
+
+Encargado: Miguel
+7. Plan de Trabajo  
+  - Fases del proyecto: análisis, diseño, desarrollo, pruebas, implementación, mantenimiento.  
+  - Cronograma: Gantt.  
+  - Dependencias y hitos clave.  
+
+Encargados: Hector Diaz y Hector Castro
+8. Recursos del Proyecto  
+- Equipo de trabajo: roles y responsabilidades.  
+- Recursos materiales y tecnológicos: servidores, software, licencias, etc.  
+- Presupuesto estimado.
+  
+Encargado: Hector Diaz
+9. Gestión del Proyecto  
+  - Metodología: (ágil, Scrum, Kanban, cascada, híbrida).  
+  - Gestión de riesgos: identificación, análisis y plan de mitigación.  
+  - Control de calidad: revisiones, pruebas, auditorías.  
+  - Gestión de cambios: procedimiento para manejar modificaciones al alcance o requerimientos.  
+  - Comunicación: reuniones, reportes, herramientas (Slack, Jira, Trello, etc.).
+    
+Encargado: Hector Castro
+10. Plan de Pruebas  
+  - Tipos de pruebas (unitarias, integración, sistema, aceptación).  
+  - Estrategia y criterios de validación.  
+  - Herramientas de testing.  
+
+
+Proyecto anterior 
+(# Trade_It
 Repositorio para el trabajo en grupo de la asignatura de IS1 de Ing. Informática de la UCM
 
 ## Reunión 18 Nomviembre 2025  
@@ -17,4 +88,4 @@ Repositorio para el trabajo en grupo de la asignatura de IS1 de Ing. Informátic
   
 - Cosas que nos gustaría implementar: mistery box.
 
-Reunión finalizada.
+Reunión finalizada.)
