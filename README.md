@@ -13,7 +13,7 @@ precios justos.
 -[Sergio Viñas](https://github.com/vinas24)  
 -[Hector Díaz](https://github.com/hediaz01)  
 -[Hugo Lozando](https://github.com/LoZoTech)
--[??](https://github.com/PACOMASTERCODER)
+-[ALejandro Gallegos](https://github.com/PACOMASTERCODER)
 -[??](https://github.com/migcruz01)
 -[??](https://github.com/bodoqui)
 -[??](https://github.com/KREYEUS)
