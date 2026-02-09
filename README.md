@@ -12,11 +12,11 @@ precios justos.
 -[Axel](https://github.com/axelmo2)  
 -[Sergio Viñas](https://github.com/vinas24)  
 -[Hector Díaz](https://github.com/hediaz01)  
--[Hugo Lozando](https://github.com/LoZoTech)
--[ALejandro Gallegos](https://github.com/PACOMASTERCODER)
--[??](https://github.com/migcruz01)
--[??](https://github.com/bodoqui)
--[Senbo Zhou](https://github.com/KREYEUS)
+-[Hugo Lozando](https://github.com/LoZoTech)  
+-[ALejandro Gallegos](https://github.com/PACOMASTERCODER)  
+-[??](https://github.com/migcruz01)  
+-[??](https://github.com/bodoqui)  
+-[Senbo Zhou](https://github.com/KREYEUS)  
 -[Mike Cruz](https://github.com/xMikeCruz)
 
 ## Fases del desarrollo
