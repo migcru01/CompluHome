@@ -16,7 +16,7 @@ precios justos.
 -[ALejandro Gallegos](https://github.com/PACOMASTERCODER)
 -[??](https://github.com/migcruz01)
 -[??](https://github.com/bodoqui)
--[??](https://github.com/KREYEUS)
+-[Senbo Zhou](https://github.com/KREYEUS)
 -[Mike Cruz](https://github.com/xMikeCruz)
 
 ## Fases del desarrollo
