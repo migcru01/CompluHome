@@ -17,6 +17,7 @@ precios justos.
 -[Miguel Cruz](https://github.com/migcruz01)  
 -[Hector Castro](https://github.com/bodoqui)  
 -[Senbo Zhou](https://github.com/KREYEUS)  
+-[Diego Cozma](https://github.com/dego01)
 
 ## Fases del desarrollo
 ...
