@@ -14,10 +14,9 @@ precios justos.
 -[Hector Díaz](https://github.com/hediaz01)  
 -[Hugo Lozando](https://github.com/LoZoTech)  
 -[ALejandro Gallegos](https://github.com/PACOMASTERCODER)  
--[??](https://github.com/migcruz01)  
--[??](https://github.com/bodoqui)  
+-[Miguel Cruz](https://github.com/migcruz01)  
+-[Hector Castro](https://github.com/bodoqui)  
 -[Senbo Zhou](https://github.com/KREYEUS)  
--[Mike Cruz](https://github.com/xMikeCruz)
 
 ## Fases del desarrollo
 ...
